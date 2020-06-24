@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name":"Mohmaed Adel",
+    "occupation":"Graduating Senior Computer Engineering Student",
+    "description":"", 
+    "image":"profilepic.jpg",
+    "bio":"Energetic, ambitious, loves to describe new areas of technology and a good Googler. As a developer with many years of experience in management, I'm an excellent team player. Also, I'm very passionate about AI and ML.",
+    "contactmessage":"This part is not right funcationally yet you can contact me directly through email.",
+    "email": "mo.adel@nu.edu.eg",
+    "phone": "+201091229749",
+    "address":{
+      "street":"Maml El-Alban St, Shobra,",
+      "city":"Cairo",
+      "state":"",
+      "zip": "00202"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1ULZkQSC7ZQg9APZg68p9EFS-kUcwhW5r/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100000625143285",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mohamed-adel-53a7ba124/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/_mohadel/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Moadell",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am always trying to improve my self and develop new skills",
+    "education":[
+      {
+        "school":"Nile University",
+        "degree":"Bachelor Degree in Computer Engineering",
+        "graduated":"2016 : 2021",
+        "description":"Full Scholarship"
+      },
+      {
+        "school":"Thebes Academy",
+        "degree":"Bachelor Degree in Computer Sceince",
+        "graduated":"2015 : 2016",
+        "description":"Only the first year and finished with GPA 3.67"
+      },
+      {
+        "school":"Road EL-Farag Secondry School for Boys",
+        "degree":"Thanwya Amma",
+        "graduated":"2015",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"vodafone intelligent solutions",
+        "title":"Intern Software Engineer",
+        "years":"Jan 2020 - Present",
+        "description":"Work in digitalization team to automate tasks using different technics. Our team done with two live fully functional applications used now by the HR department."
+      },
+      {
+        "company":"BLACK BOX for Training",
+        "title":"Founder and Team Leader",
+        "years":"June 2019 - Present",
+        "description":"Our story is to create a well-structured generation with a different mindset to be able compete globally. "
+      },
+      {
+        "company":"Nile University Innovation Hub",
+        "title":"Intern Lab Engineer",
+        "years":"June 2019 - Sep 2019",
+        "description":"Support and Supervise students while using lab machines."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Embedded C",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Excellia",
+        "category":"Collage body website created using Reactjs and firebase",
+        "image":"Excellia.png",
+        "url":"https://excellia-4c9b1.web.app"
+      },
+      {
+        "title":"Sentiment Anlysis Using Python",
+        "category":"Python desktop based application using Kares and NLTK",
+        "image":"Tensor.jpg",
+        "url":"https://github.com/Moadell/Sentiment_Anlysis_using_Kares_and_NLTK_including_GUI"
+      },
+      {
+        "title":"Vehicle to Vehicle communication",
+        "category":"Verouis smultions for V2V communication",
+        "image":"original-thai-food.jpg",
+        "url":"https://www.youtube.com/watch?v=inPz0V-YeVQ"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.png",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
