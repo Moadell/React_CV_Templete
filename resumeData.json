@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Mohamed Adel",
+    "name":"Mohmaed Adel",
     "occupation":"Graduating Senior Computer Engineering Student",
     "description":"", 
     "image":"profilepic.jpg",
@@ -135,7 +135,7 @@
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"resume-website.png",
-        "url":"https://github.com/Moadell/React_CV_Templete/"
+        "url":"http://www.timbakerdev.com"
       }
     ]
   },
